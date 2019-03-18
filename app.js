@@ -33,7 +33,7 @@ var employee = [
 
             },
         {
-            name: 'raghu,
+            name: 'raghu',
             age: 26,
             salary: "80000",
             address:  {
